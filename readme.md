@@ -2,7 +2,7 @@
 
 # awesome remark [![awesome][awesome-badge]][self]
 
-[<img src="https://raw.githubusercontent.com/remarkjs/remark/4f6b3d7/logo.svg?sanitize=true" align="right" alt width="200">](https://remark.js.org)
+[<img align="right" alt src="https://raw.githubusercontent.com/remarkjs/remark/3c609d7f/logo-square.svg?sanitize=true" width="200">](https://remark.js.org)
 
 > A curated list of awesome [remark][] (a Markdown processor and a [unified][]
 > project) resources.
