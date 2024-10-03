@@ -4,18 +4,23 @@
 
 [<img align="right" alt src="https://raw.githubusercontent.com/remarkjs/remark/3c609d7f/logo-square.svg?sanitize=true" width="200">](https://remark.js.org)
 
-> A curated list of awesome [remark][] (a Markdown processor and a [unified][]
-> project) resources.
+> A curated list of awesome [remark][]
+> (a markdown processor and a [unified][] project)
+> resources.
 
-**remark** is not another Markdown to HTML compiler.
-It can generate and reformat Markdown too.
-Powered by plugins to do all kinds of things: check Markdown code style,
-transform safely to React, add a table of contents, or compile to man pages,
+**remark** is not another markdown to HTML compiler.
+It can generate and reformat markdown too.
+Powered by plugins to do all kinds of things:
+check markdown code style,
+transform safely to React,
+add a table of contents,
+or compile to man pages,
 and much more.
 
 **unified** is an interface for processing text using syntax trees.
-It’s what powers remark, but also [retext][] and [rehype][].
-It’s part of the [unified][] collective.
+It’s what powers remark,
+but also [retext][] and [rehype][].
+It’s all part of the [unified][] collective.
 
 ## Contents
 
@@ -98,20 +103,20 @@ It’s part of the [unified][] collective.
 
 <!-- Definitions. -->
 
-[license]: https://creativecommons.org/licenses/by/4.0/
-
-[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
-
 [author]: https://wooorm.com
 
 [awesome-badge]: https://awesome.re/badge.svg
 
-[self]: https://github.com/remarkjs/awesome-remark
+[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
 
-[unified]: https://github.com/unifiedjs/unified
-
-[remark]: https://github.com/remarkjs/remark
+[license]: https://creativecommons.org/licenses/by/4.0/
 
 [rehype]: https://github.com/rehypejs/rehype
 
+[remark]: https://github.com/remarkjs/remark
+
 [retext]: https://github.com/retextjs/retext
+
+[self]: https://github.com/remarkjs/awesome-remark
+
+[unified]: https://github.com/unifiedjs/unified
