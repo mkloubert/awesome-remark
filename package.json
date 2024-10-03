@@ -1,27 +1,27 @@
 {
-  "name": "awesome-remark",
-  "private": true,
-  "version": "0.0.0",
-  "description": "Curated list of awesome remark resources",
-  "license": "CC-BY-4.0",
-  "keywords": [],
-  "repository": "remarkjs/awesome-remark",
-  "bugs": "https://github.com/remarkjs/awesome-remark/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
+  "bugs": "https://github.com/remarkjs/awesome-remark/issues",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
+  "description": "Curated list of awesome remark resources",
   "devDependencies": {
     "remark-cli": "^12.0.0",
     "remark-preset-wooorm": "^10.0.0"
   },
-  "scripts": {
-    "format": "remark --output --quiet -- .",
-    "test": "npm run format"
-  },
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "name": "awesome-remark",
+  "private": true,
   "remarkConfig": {
     "plugins": [
       "remark-preset-wooorm"
     ]
-  }
+  },
+  "repository": "remarkjs/awesome-remark",
+  "scripts": {
+    "format": "remark --output --quiet -- .",
+    "test": "npm run format"
+  },
+  "version": "0.0.0"
 }
