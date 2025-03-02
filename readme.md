@@ -56,6 +56,7 @@ It’s all part of the [unified][] collective.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
 * [remark-git-contributors](https://github.com/remarkjs/remark-git-contributors) - Add a table with git contributors.
+* [remark-emoji](https://github.com/rhysd/remark-emoji) - Support emojis.
 
 [Find more plugins »](https://github.com/remarkjs/remark/blob/main/doc/plugins.md#list-of-plugins)
 
